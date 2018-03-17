@@ -1,0 +1,14 @@
+{
+  "name": "pageofd20s",
+  "version": "1.0.0",
+  "description": "Generate a text file filled with d20 roll results.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bobby B.",
+  "license": "ISC",
+  "dependencies": {
+    "d20": "^1.4.1"
+  }
+}
